@@ -1,5 +1,11 @@
 
-puts "what is 10-20?"
-x = 10
-y = 20 
-puts (x-y)
+#puts "what is 100-26?"
+#x = 100
+#y = 26 
+#puts (x-y)
+
+def subtract(num1,num2)
+	p num1 - num2
+end
+
+subtract(26,100)
