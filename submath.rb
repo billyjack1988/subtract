@@ -8,4 +8,3 @@ def subtract(num1,num2)
 	p num1 - num2
 end
 
-subtract(26,100)
